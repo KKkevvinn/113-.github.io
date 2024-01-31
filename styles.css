@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(255, 229, 234)
+}
+
+
+h1 {
+    font-size: 300%;
+}
+
+h3 {
+    font-weight: bolder;
+}
+
+a:link{
+    color: rgb(228, 98, 141); 
+    text-decoration: none;
+}
+
+a:visited{
+    color: rgb(141, 141, 141)
+}
+
+a:hover{
+    text-decoration: underline;
+}
