@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(255, 229, 234)
+    background-color: rgb(255, 229, 234);
 }
 
 
@@ -17,9 +17,18 @@ a:link{
 }
 
 a:visited{
-    color: rgb(141, 141, 141)
+    color: rgb(141, 141, 141);
 }
 
 a:hover{
     text-decoration: underline;
+}
+
+.special{
+    font-weight: bolder;
+}
+
+p{
+    font-size: 1px;
+    line-height: 1px;
 }
